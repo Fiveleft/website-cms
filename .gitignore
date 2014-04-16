@@ -3,8 +3,8 @@
 wp-activate.php
 wp-admin
 wp-includes
-wp-content/plugins
-wp-content/uploads
+wordpress/wp-content/plugins
+wordpress/wp-content/uploads
 index.php
 license.txt
 readme.html

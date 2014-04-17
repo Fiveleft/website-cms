@@ -1,5 +1,6 @@
 .htaccessckups/
 *.log
+includes
 wp-activate.php
 wp-admin
 wp-includes

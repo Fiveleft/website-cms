@@ -29,7 +29,7 @@ if( !$uncache && file_exists($cache_file) && (time() - filemtime($cache_file) < 
 		// , "taxonomies" => array() 
 		, "agencies" => array()
 		, "clients" => array()
-		, "media" => home_url() . "/media"
+		, "media" => home_url() . "../media"
 		, "_cachetime" => date('m/d/Y h:i:s a', time())
 	);
 

@@ -31,8 +31,8 @@ function fiveleft_admin_init() {
 	}
 	*/
 
-	add_theme_support( 'post-thumbnails' ); 
 }
+add_theme_support( 'post-thumbnails' ); 
 add_action('admin_init','fiveleft_admin_init');
 
 
